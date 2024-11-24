@@ -8,7 +8,7 @@
     "url": "https://github.com/wiseflat/nodejs-helloworld"
   },
   "dependencies": {
-    "diff-json": "latest"
+    "express": "latest"
   },
   "keywords": [
     "hellworld"
